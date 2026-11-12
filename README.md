@@ -1,46 +1,51 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Denisans — Product-minded PM and Engineer" width="100%" />
+  <img src="assets/hero-v2.svg" alt="Denis - Project Manager, Product Manager, Business Analyst" width="100%" />
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/denisans?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </div>
+
+<br/>
+
+<img src="assets/h-bring.svg" alt="What I bring" width="100%" />
+<div align="center"><img src="assets/bring.svg" alt="Product thinking, Engineering mindset, Collaboration, Delivery focus" width="100%" /></div>
+
+<br/>
+
+<img src="assets/h-work.svg" alt="How I work" width="100%" />
+<div align="center"><img src="assets/workflow.svg" alt="Understand the problem, Define the opportunity, Prioritize, Build, Learn" width="100%" /></div>
+
+<br/>
+
+<img src="assets/h-featured.svg" alt="Featured work" width="100%" />
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/denisans/qa-tracker"><img src="assets/card-qa.svg" alt="QA Tracker" width="100%" /></a></td>
+    <td><a href="https://github.com/denisans/Cafe_Management"><img src="assets/card-cafe.svg" alt="Cafe Management" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/denisans/portofolio.github.io"><img src="assets/card-hotel.svg" alt="Hotel Website" width="100%" /></a></td>
+    <td><a href="https://github.com/denisans/Crownsky"><img src="assets/card-crownsky.svg" alt="Crownsky" width="100%" /></a></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="assets/h-stack.svg" alt="Skills and tools" width="100%" />
+<div align="center"><img src="assets/skills.svg" alt="Skills and tools" width="100%" /></div>
+
+<br/>
+
+<img src="assets/h-connect.svg" alt="Let's connect" width="100%" />
 
 <div align="center">
-
-<a href="https://github.com/denisans">GitHub</a> · Product Management · Software Engineering · Product Building
-
+  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
----
+<br/>
 
-## Hey, I'm Denisans 👋
-
-I’m a product-minded PM and engineer who enjoys turning messy problems into clear product direction and practical software.
-
-I work best at the intersection of **user needs**, **business goals**, and **technical execution** — building products that are useful, thoughtful, and easy to improve.
-
-### What I bring
-
-- Product thinking: problem framing, prioritization, and decision-making
-- Engineering mindset: building, iterating, and improving with intention
-- Collaboration: aligning teams around outcomes and execution
-- Delivery focus: turning ideas into usable product progress
-
-### Featured work
-
-- [QA Tracker](https://github.com/denisans/qa-tracker) — A project focused on improving QA tracking and workflows.
-- [Cafe Management](https://github.com/denisans/Cafe_Management) — A cafe operations system project.
-- [Hotel Website](https://github.com/denisans/portofolio.github.io) — A hospitality-focused website project.
-
-### My working style
-
-`Understand the problem` → `Define the opportunity` → `Prioritize` → `Build` → `Learn`
-
-I care about clarity, execution, and continuous iteration.
-
-### Let’s connect
-
-[GitHub](https://github.com/denisans) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
-
-<div align="center">
-
-*Building useful products with clarity, care, and momentum.*
-
-</div>
+<img src="assets/footer.svg" alt="Building useful products with clarity, care, and momentum." width="100%" />

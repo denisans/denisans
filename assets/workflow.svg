@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 104" width="1200" height="104" role="img" aria-label="Understand the problem, Define the opportunity, Prioritize, Build, Learn">
+<path d="M0 0 H210 L236 50 L210 100 H0 L26 50 Z" fill="#0F1A2E" stroke="#38BDF8" stroke-width="1.6"/>
+<text x="34" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#38BDF8">01</text>
+<text x="34" y="68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF7">Understand</text>
+<text x="34" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8FA3C2">the problem</text>
+<path d="M236 0 H446 L472 50 L446 100 H236 L262 50 Z" fill="#0F1A2E" stroke="#818CF8" stroke-width="1.6"/>
+<text x="270" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#818CF8">02</text>
+<text x="270" y="68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF7">Define</text>
+<text x="270" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8FA3C2">the opportunity</text>
+<path d="M472 0 H682 L708 50 L682 100 H472 L498 50 Z" fill="#0F1A2E" stroke="#F59E0B" stroke-width="1.6"/>
+<text x="506" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#F59E0B">03</text>
+<text x="506" y="68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF7">Prioritize</text>
+<text x="506" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8FA3C2">what matters</text>
+<path d="M708 0 H918 L944 50 L918 100 H708 L734 50 Z" fill="#0F1A2E" stroke="#34D399" stroke-width="1.6"/>
+<text x="742" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#34D399">04</text>
+<text x="742" y="68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF7">Build</text>
+<text x="742" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8FA3C2">with the team</text>
+<path d="M944 0 H1154 L1180 50 L1154 100 H944 L970 50 Z" fill="#0F1A2E" stroke="#38BDF8" stroke-width="1.6"/>
+<text x="978" y="46" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#38BDF8">05</text>
+<text x="978" y="68" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF7">Learn</text>
+<text x="978" y="88" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8FA3C2">and iterate</text>
+</svg>
