@@ -4,53 +4,43 @@
 
 <div align="center">
 
-### PRODUCT THINKING × ENGINEERING CRAFT
-
-# I turn complex problems into useful products.
-
-I’m **Denisans** — a product-minded builder who enjoys connecting customer needs, clear product decisions, and thoughtful engineering.
-
-[Explore my work](#selected-work) · [Connect](#lets-connect)
+<a href="https://github.com/denisans">GitHub</a> · Product Management · Software Engineering · Product Building
 
 </div>
 
 ---
 
-## My approach
+## Hey, I'm Denisans 👋
 
-I like working at the intersection of **what people need**, **what makes a product valuable**, and **what a team can build well**.
+I’m a product-minded PM and engineer who enjoys turning messy problems into clear product direction and practical software.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><strong>01 · Understand</strong><br/>Get close to the problem before jumping to a solution.</td>
-    <td width="33%" valign="top"><strong>02 · Shape</strong><br/>Turn insights into focused priorities and clear next steps.</td>
-    <td width="33%" valign="top"><strong>03 · Ship & learn</strong><br/>Build thoughtfully, gather feedback, and keep improving.</td>
-  </tr>
-</table>
+I work best at the intersection of **user needs**, **business goals**, and **technical execution** — building products that are useful, thoughtful, and easy to improve.
 
-## Selected work
+### What I bring
 
-<a href="https://github.com/denisans/qa-tracker"><strong>QA Tracker</strong></a><br/>
-Exploring ways to make QA tracking workflows more efficient.
+- Product thinking: problem framing, prioritization, and decision-making
+- Engineering mindset: building, iterating, and improving with intention
+- Collaboration: aligning teams around outcomes and execution
+- Delivery focus: turning ideas into usable product progress
 
-<a href="https://github.com/denisans/Cafe_Management"><strong>Cafe Management</strong></a><br/>
-A project focused on cafe operations and management.
+### Featured work
 
-<a href="https://github.com/denisans/portofolio.github.io"><strong>Hotel Website</strong></a><br/>
-A hospitality website project.
+- [QA Tracker](https://github.com/denisans/qa-tracker) — A project focused on improving QA tracking and workflows.
+- [Cafe Management](https://github.com/denisans/Cafe_Management) — A cafe operations system project.
+- [Hotel Website](https://github.com/denisans/portofolio.github.io) — A hospitality-focused website project.
 
-## What I bring
+### My working style
 
-`Product thinking` &nbsp; `Prioritization` &nbsp; `Cross-functional collaboration` &nbsp; `Hands-on building` &nbsp; `Continuous learning`
+`Understand the problem` → `Define the opportunity` → `Prioritize` → `Build` → `Learn`
 
-## Let's connect
+I care about clarity, execution, and continuous iteration.
 
-If you're building something useful and thoughtful, let's talk.
+### Let’s connect
 
-[GitHub](https://github.com/denisans)
+[GitHub](https://github.com/denisans) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
 
 <div align="center">
 
-*Curious by default. Clear on priorities. Always learning by building.*
+*Building useful products with clarity, care, and momentum.*
 
 </div>
