@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Building useful products with clarity, care, and momentum.">
-<defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
-<style>@keyframes d { from { transform: translateX(0) } to { transform: translateX(-120px) } } .wv { animation: d 10s linear infinite }</style></defs>
-<rect width="1200" height="140" rx="18" fill="#0B1220"/>
-<g class="wv" opacity=".5"><path d="M0 100 Q60 70 120 100 T240 100 T360 100 T480 100 T600 100 T720 100 T840 100 T960 100 T1080 100 T1200 100 T1320 100 V140 H0 Z" fill="url(#w)" fill-opacity=".25"/></g>
-<text x="600" y="58" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#E6EDF7">Building useful products with clarity, care, and momentum.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="Building useful products with clarity, care, and momentum.">
+<defs><linearGradient id="fg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7DB2AD" stop-opacity="0"/><stop offset=".5" stop-color="#7DB2AD"/><stop offset="1" stop-color="#7DB2AD" stop-opacity="0"/></linearGradient>
+<style>@keyframes sw { 0%,100% { opacity:.35 } 50% { opacity:1 } } .l { animation: sw 6s ease-in-out infinite } @media (prefers-reduced-motion: reduce) { * { animation: none !important } }</style></defs>
+<rect width="1200" height="96" rx="16" fill="#141F2B"/><rect x=".5" y=".5" width="1199" height="95" rx="15.5" fill="none" stroke="#2C3E50"/>
+<text x="600" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" font-style="italic" fill="#E9EEF3">Building useful products with clarity, care, and momentum.</text>
+<rect class="l" x="400" y="68" width="400" height="1.5" fill="url(#fg)"/>
 </svg>
