@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Denis - Project Manager, Product Manager, Business Analyst" width="100%" />
 
-  <p><a href="https://www.linkedin.com/in/REPLACE_ME"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="38" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="38" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="38" /></a></p>
+  <p><a href="https://www.linkedin.com/in/denisse-ananda/"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="38" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="38" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="38" /></a></p>
 </div>
 
 <p align="center">
@@ -89,7 +89,7 @@
 
 ## Let's connect
 
-<p><a href="https://www.linkedin.com/in/REPLACE_ME"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="40" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="40" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/denisse-ananda/"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="40" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="40" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="40" /></a></p>
 
 <br/>
 
