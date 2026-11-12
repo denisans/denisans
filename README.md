@@ -1,171 +1,95 @@
 <div align="center">
-  <img src="assets/hero-v2.svg" alt="Denis - Project Manager, Product Manager, Business Analyst" width="100%" />
+  <img src="assets/hero.svg" alt="Denis - Project Manager, Product Manager, Business Analyst" width="100%" />
 
-  <br/>
-
-  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/denisans?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <p><a href="https://www.linkedin.com/in/REPLACE_ME"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="38" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="38" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="38" /></a></p>
 </div>
 
-<br/>
+<p align="center">
+<a href="https://github.com/denisans/denisans/blob/main/details/product-and-delivery-skills.md"><img src="assets/kpi-roles.svg" alt="3 roles: project manager, product manager, business analyst" width="24%" /></a>
+<a href="https://github.com/denisans?tab=repositories"><img src="assets/kpi-projects.svg" alt="3 working projects: Crownsky, Cafe_Management, qa-tracker" width="24%" /></a>
+<a href="https://github.com/denisans/denisans/blob/main/details/product-thinking.md"><img src="assets/kpi-pages.svg" alt="12 detail pages explained with examples" width="24%" /></a>
+<a href="https://github.com/denisans/denisans/blob/main/details/understand-the-problem.md"><img src="assets/kpi-steps.svg" alt="5 steps in my workflow" width="24%" /></a>
+</p>
 
-<img src="assets/h-bring.svg" alt="What I bring" width="100%" />
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Project Management</b><br/>Plan, align, and deliver with clear priorities.</td>
+    <td width="33%" valign="top"><b>Product Thinking</b><br/>Frame the problem and decide what is worth building.</td>
+    <td width="33%" valign="top"><b>Business Analysis</b><br/>Turn business needs into clear, testable requirements.</td>
+  </tr>
+</table>
 
-<details>
-<summary><img src="assets/row-b1.svg" alt="Product thinking" width="100%" /></summary>
+## What I bring
 
-Every piece of work starts from the user and business problem, not the solution. I frame the problem, size the opportunity, and decide what to build, and just as importantly what not to build.
+<p><b>Product thinking</b> &nbsp;<sub>Problem framing, prioritization, and decision-making</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/product-thinking.md"><img src="assets/btn-details.svg" alt="View details: Product thinking" height="30" align="absmiddle" /></a></p>
 
-</details>
+<p><b>Engineering mindset</b> &nbsp;<sub>Building, iterating, and improving with intention</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/engineering-mindset.md"><img src="assets/btn-details.svg" alt="View details: Engineering mindset" height="30" align="absmiddle" /></a></p>
 
-<details>
-<summary><img src="assets/row-b2.svg" alt="Engineering mindset" width="100%" /></summary>
+<p><b>Collaboration</b> &nbsp;<sub>Aligning teams around outcomes and execution</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/collaboration.md"><img src="assets/btn-details.svg" alt="View details: Collaboration" height="30" align="absmiddle" /></a></p>
 
-I build, iterate, and improve with intention. The projects on this profile (QA Tracker, Cafe Management, Hotel Website) are practical examples of turning an idea into something people can use.
+<p><b>Delivery focus</b> &nbsp;<sub>Turning ideas into usable product progress</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/delivery-focus.md"><img src="assets/btn-details.svg" alt="View details: Delivery focus" height="30" align="absmiddle" /></a></p>
 
-</details>
 
-<details>
-<summary><img src="assets/row-b3.svg" alt="Collaboration" width="100%" /></summary>
+## How I work
 
-I align teams around outcomes and execution: shared goals, clear priorities, and visible progress, so stakeholders and the delivery team stay on the same page.
+<img src="assets/workflow.svg" alt="Understand the problem, Define the opportunity, Prioritize, Build with the team, Learn and iterate" width="100%" />
 
-</details>
+<p><b>01 &nbsp;Understand the problem</b> &nbsp;<sub>Context, users, and constraints first</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/understand-the-problem.md"><img src="assets/btn-details.svg" alt="View details: Understand the problem" height="30" align="absmiddle" /></a></p>
 
-<details>
-<summary><img src="assets/row-b4.svg" alt="Delivery focus" width="100%" /></summary>
+<p><b>02 &nbsp;Define the opportunity</b> &nbsp;<sub>Turn the problem into a clear direction</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/define-the-opportunity.md"><img src="assets/btn-details.svg" alt="View details: Define the opportunity" height="30" align="absmiddle" /></a></p>
 
-I focus on turning ideas into usable product progress: small steps, quick feedback, and continuous improvement rather than big-bang releases.
+<p><b>03 &nbsp;Prioritize</b> &nbsp;<sub>Decide what to do now, next, and not at all</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/prioritize.md"><img src="assets/btn-details.svg" alt="View details: Prioritize" height="30" align="absmiddle" /></a></p>
 
-</details>
+<p><b>04 &nbsp;Build</b> &nbsp;<sub>Deliver in small, visible steps with the team</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/build.md"><img src="assets/btn-details.svg" alt="View details: Build" height="30" align="absmiddle" /></a></p>
 
+<p><b>05 &nbsp;Learn</b> &nbsp;<sub>Review results, feed them back, and iterate</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/learn.md"><img src="assets/btn-details.svg" alt="View details: Learn" height="30" align="absmiddle" /></a></p>
 
-<br/>
 
-<img src="assets/h-work.svg" alt="How I work" width="100%" />
+## Repositories
 
-<details>
-<summary><img src="assets/row-s1.svg" alt="Understand the problem" width="100%" /></summary>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/denisans/denisans/blob/main/details/crownsky.md"><img src="assets/repo-crownsky.svg" alt="Crownsky, a hotel booking website in PHP" width="100%" /></a>
+      <p align="center"><a href="https://github.com/denisans/denisans/blob/main/details/crownsky.md"><img src="assets/btn-details-crown.svg" alt="View details: Crownsky, a hotel booking website in PHP" height="38" /></a> &nbsp; <a href="https://github.com/denisans/Crownsky"><img src="assets/btn-repo.svg" alt="Open repository on GitHub" height="38" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/denisans/denisans/blob/main/details/cafe-management.md"><img src="assets/repo-cafe.svg" alt="Cafe_Management, a Java desktop app" width="100%" /></a>
+      <p align="center"><a href="https://github.com/denisans/denisans/blob/main/details/cafe-management.md"><img src="assets/btn-details-cafe.svg" alt="View details: Cafe_Management, a Java desktop app" height="38" /></a> &nbsp; <a href="https://github.com/denisans/Cafe_Management"><img src="assets/btn-repo.svg" alt="Open repository on GitHub" height="38" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/denisans/denisans/blob/main/details/qa-tracker.md"><img src="assets/repo-qa.svg" alt="qa-tracker, a QA findings dashboard" width="100%" /></a>
+      <p align="center"><a href="https://github.com/denisans/denisans/blob/main/details/qa-tracker.md"><img src="assets/btn-details-qa.svg" alt="View details: qa-tracker, a QA findings dashboard" height="38" /></a> &nbsp; <a href="https://github.com/denisans/qa-tracker"><img src="assets/btn-repo.svg" alt="Open repository on GitHub" height="38" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/denisans/denisans/blob/main/details/portofolio.md"><img src="assets/repo-portfolio.svg" alt="portofolio.github.io, an empty repository" width="100%" /></a>
+      <p align="center"><a href="https://github.com/denisans/denisans/blob/main/details/portofolio.md"><img src="assets/btn-details-port.svg" alt="View details: portofolio.github.io, an empty repository" height="38" /></a> &nbsp; <a href="https://github.com/denisans/portofolio.github.io"><img src="assets/btn-repo.svg" alt="Open repository on GitHub" height="38" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/denisans/denisans/blob/main/details/denisans.md"><img src="assets/repo-profile.svg" alt="denisans, the GitHub profile README" width="50%" /></a>
+      <p align="center"><a href="https://github.com/denisans/denisans/blob/main/details/denisans.md"><img src="assets/btn-details-prof.svg" alt="View details: denisans, the GitHub profile README" height="38" /></a> &nbsp; <a href="https://github.com/denisans/denisans"><img src="assets/btn-repo.svg" alt="Open repository on GitHub" height="38" /></a></p>
+    </td>
+  </tr>
+</table>
 
-Talk to users and stakeholders, gather context, and clarify constraints before proposing anything.
+## Skills and tools
 
-</details>
+<img src="assets/skills.svg" alt="Skills and tools" width="100%" />
 
-<details>
-<summary><img src="assets/row-s2.svg" alt="Define the opportunity" width="100%" /></summary>
+<p><b>Product and delivery skills</b> &nbsp;<sub>Product thinking, prioritization, requirements, delivery management</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/product-and-delivery-skills.md"><img src="assets/btn-details.svg" alt="View details: Product and delivery skills" height="30" align="absmiddle" /></a></p>
 
-Turn what I learned into a clear problem statement, goals, and a direction the team can rally around.
+<p><b>Quality and collaboration</b> &nbsp;<sub>QA workflow, stakeholder alignment</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/quality-and-collaboration.md"><img src="assets/btn-details.svg" alt="View details: Quality and collaboration" height="30" align="absmiddle" /></a></p>
 
-</details>
+<p><b>Tech and tools</b> &nbsp;<sub>HTML5, PHP, Git, GitHub</sub> &nbsp;<a href="https://github.com/denisans/denisans/blob/main/details/tech-and-tools.md"><img src="assets/btn-details.svg" alt="View details: Tech and tools" height="30" align="absmiddle" /></a></p>
 
-<details>
-<summary><img src="assets/row-s3.svg" alt="Prioritize" width="100%" /></summary>
 
-Weigh value, effort, and risk to decide what happens now, what comes next, and what is left out.
+## Let's connect
 
-</details>
-
-<details>
-<summary><img src="assets/row-s4.svg" alt="Build" width="100%" /></summary>
-
-Work with the team to deliver in small, visible increments and keep requirements and progress clear.
-
-</details>
-
-<details>
-<summary><img src="assets/row-s5.svg" alt="Learn" width="100%" /></summary>
-
-Review results, capture feedback, and feed it back into the next iteration.
-
-</details>
-
-
-<br/>
-
-<img src="assets/h-featured.svg" alt="Featured work" width="100%" />
-
-<details>
-<summary><img src="assets/row-p1.svg" alt="QA Tracker" width="100%" /></summary>
-
-Automates QA tracking to improve QA workflows and make test reporting and fix follow-up faster and more transparent.
-
-**Tech:** HTML  
-**Repository:** [denisans/qa-tracker](https://github.com/denisans/qa-tracker)
-
-</details>
-
-<details>
-<summary><img src="assets/row-p2.svg" alt="Cafe Management" width="100%" /></summary>
-
-A cafe operations system for managing day-to-day business flow.
-
-**Tech:** Operations  
-**Repository:** [denisans/Cafe_Management](https://github.com/denisans/Cafe_Management)
-
-</details>
-
-<details>
-<summary><img src="assets/row-p3.svg" alt="Hotel Website" width="100%" /></summary>
-
-A hospitality-focused website project built as a product and web delivery exercise.
-
-**Tech:** Web  
-**Repository:** [denisans/portofolio.github.io](https://github.com/denisans/portofolio.github.io)
-
-</details>
-
-<details>
-<summary><img src="assets/row-p4.svg" alt="Crownsky" width="100%" /></summary>
-
-A PHP project. A fuller description is coming soon.
-
-**Tech:** PHP  
-**Repository:** [denisans/Crownsky](https://github.com/denisans/Crownsky)
-
-</details>
-
-
-<br/>
-
-<img src="assets/h-stack.svg" alt="Skills and tools" width="100%" />
-
-<details>
-<summary><img src="assets/row-k1.svg" alt="Product and delivery skills" width="100%" /></summary>
-
-- Product thinking
-- Prioritization
-- Requirements
-- Delivery management
-
-</details>
-
-<details>
-<summary><img src="assets/row-k2.svg" alt="Quality and collaboration" width="100%" /></summary>
-
-- QA workflow
-- Stakeholder alignment
-
-</details>
-
-<details>
-<summary><img src="assets/row-k3.svg" alt="Tech and tools" width="100%" /></summary>
-
-- HTML5
-- PHP
-- Git and GitHub
-
-</details>
-
-
-<br/>
-
-<img src="assets/h-connect.svg" alt="Let's connect" width="100%" />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<p><a href="https://www.linkedin.com/in/REPLACE_ME"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="40" /></a> &nbsp; <a href="mailto:REPLACE_ME@example.com"><img src="assets/btn-link-email.svg" alt="Email" height="40" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="40" /></a></p>
 
 <br/>
 

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250" role="img" aria-label="Crownsky, a hotel booking website in PHP">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1A2837"/><stop offset="1" stop-color="#141F2B"/></linearGradient>
+<linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86AECF" stop-opacity="0"/><stop offset=".5" stop-color="#86AECF" stop-opacity=".22"/><stop offset="1" stop-color="#86AECF" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="336" y="30" width="204" height="190" rx="12"/></clipPath>
+<style>
+@keyframes comet { from { stroke-dashoffset: 0 } to { stroke-dashoffset: -1000 } }
+@keyframes scan { 0% { transform: translateY(-70px) } 55%,100% { transform: translateY(230px) } }
+@keyframes bar { 0%,100% { transform: scaleX(1) } 50% { transform: scaleX(2.2) } }
+@keyframes link { 0%,100% { opacity:.85 } 50% { opacity:1 } }
+.cm { animation: comet 10s linear 0s infinite }
+.sc { animation: scan 7s ease-in-out 0s infinite }
+.ab { transform-box: fill-box; transform-origin: left center; animation: bar 6s ease-in-out 0s infinite }
+.lk { animation: link 4s ease-in-out 0s infinite }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style></defs>
+<rect width="560" height="250" rx="16" fill="url(#g)"/><rect x=".5" y=".5" width="559" height="249" rx="15.5" fill="none" stroke="#2C3E50"/>
+<rect class="cm" x=".75" y=".75" width="558.5" height="248.5" rx="15.25" fill="none" stroke="#86AECF" stroke-width="1.6" stroke-linecap="round" pathLength="1000" stroke-dasharray="70 930" stroke-opacity=".9"/>
+<rect class="ab" x="40" y="38" width="28" height="2" fill="#86AECF"/>
+<text x="40" y="74" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="25" fill="#E9EEF3">Crownsky</text>
+<text x="40" y="98" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#86AECF">PHP</text>
+<text x="40" y="128" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#E9EEF3" fill-opacity=".82">A hotel booking website: room</text><text x="40" y="150" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#E9EEF3" fill-opacity=".82">search, booking, checkout, invoices,</text><text x="40" y="172" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#E9EEF3" fill-opacity=".82">ratings, admin pages and reports.</text>
+<text class="lk" x="40" y="214" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#86AECF" text-decoration="underline">Open repository</text>
+<rect x="336" y="30" width="204" height="190" rx="12" fill="#141F2B" fill-opacity=".55" stroke="#2C3E50"/>
+<rect x="356" y="52" width="164" height="8" rx="3.5" fill="#E9EEF3" fill-opacity=".5"/><rect x="356" y="70" width="164" height="58" rx="8" fill="#86AECF" fill-opacity=".22" stroke="#86AECF" stroke-opacity=".6"/><rect x="368" y="84" width="80" height="8" rx="3.5" fill="#E9EEF3" fill-opacity=".6"/><rect x="368" y="100" width="54" height="6" rx="3.5" fill="#E9EEF3" fill-opacity=".32"/><rect x="356" y="138" width="48" height="34" rx="6" fill="none" stroke="#2C3E50" stroke-width="1.5"/><rect x="414" y="138" width="48" height="34" rx="6" fill="none" stroke="#2C3E50" stroke-width="1.5"/><rect x="472" y="138" width="48" height="34" rx="6" fill="none" stroke="#2C3E50" stroke-width="1.5"/><rect x="356" y="182" width="164" height="22" rx="11" fill="none" stroke="#2C3E50" stroke-width="1.5"/><rect x="466" y="186" width="50" height="14" rx="7" fill="#86AECF" fill-opacity=".9"/>
+<g clip-path="url(#pc)"><rect class="sc" x="336" y="30" width="204" height="70" fill="url(#sc)"/></g>
+</svg>

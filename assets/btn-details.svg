@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 36" width="172" height="36" role="img" aria-label="View details">
+<defs><clipPath id="bc"><rect width="172" height="36" rx="18.0"/></clipPath>
+<linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<style>
+@keyframes nudge { 0%,60%,100% { transform: translateX(0) } 75% { transform: translateX(4px) } }
+@keyframes sheen { 0%,55% { transform: translateX(0) } 100% { transform: translateX(252px) } }
+.ar { animation: nudge 4s ease-in-out 0s infinite } .sh { animation: sheen 6s ease-in-out 0s infinite }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style></defs>
+<rect width="172" height="36" rx="18.0" fill="#1B2938"/><g clip-path="url(#bc)"><rect class="sh" x="-60" y="0" width="50" height="36" fill="url(#sg)"/></g>
+<rect x=".75" y=".75" width="170.5" height="34.5" rx="17.25" fill="none" stroke="#7DB2AD" stroke-width="1.5" stroke-opacity=".75"/>
+<text x="22" y="23.0"  font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#E9EEF3">View details</text>
+<path class="ar" d="M132 13.0 L139 18.0 L132 23.0" fill="none" stroke="#7DB2AD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path class="ar" d="M120 18.0 H138" fill="none" stroke="#7DB2AD" stroke-width="2" stroke-linecap="round"/>
+</svg>

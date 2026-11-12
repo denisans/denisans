@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Denis - Project Manager, Product Manager, Business Analyst">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18273A"/><stop offset="1" stop-color="#141F2B"/></linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7DB2AD"/><stop offset="1" stop-color="#7DB2AD" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="320" rx="18"/></clipPath>
+<style>
+@keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+@keyframes rise { from { opacity:0; transform: translateY(8px) } to { opacity:1; transform: none } }
+@keyframes breathe { 0%,100% { opacity:.35 } 50% { opacity:.7 } }
+.rule { transform-origin: 84px 0; transform-box: fill-box; animation: grow 1.4s cubic-bezier(.2,.8,.2,1) .2s both }
+.t1 { animation: rise 1s ease-out .5s both }
+.t2 { animation: rise 1s ease-out .9s both }
+.t3 { animation: rise 1s ease-out 1.3s both }
+.ring { animation: breathe 7s ease-in-out infinite }
+.ring2 { animation: breathe 7s ease-in-out 2.3s infinite }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<g fill="none" stroke="#7DB2AD" stroke-width="1">
+<circle class="ring" cx="1010" cy="160" r="210" opacity=".35"/>
+<circle class="ring2" cx="1010" cy="160" r="150" opacity=".35"/>
+<circle class="ring" cx="1010" cy="160" r="90" opacity=".35"/>
+</g>
+<line x1="1010" y1="0" x2="1010" y2="320" stroke="#2C3E50" stroke-width="1"/>
+<line x1="780" y1="160" x2="1240" y2="160" stroke="#2C3E50" stroke-width="1"/>
+</g>
+<rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#2C3E50"/>
+<text class="t1" x="84" y="140" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="78" font-weight="400" fill="#E9EEF3" letter-spacing="1">Denis</text>
+<rect class="rule" x="84" y="164" width="180" height="2" fill="url(#rule)"/>
+<text class="t2" x="84" y="212" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#E9EEF3">Project Manager<tspan fill="#6F8093">   |   </tspan>Product Manager<tspan fill="#6F8093">   |   </tspan>Business Analyst</text>
+<text class="t3" x="84" y="258" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="20" font-style="italic" fill="#9AA9B9">I turn unclear problems into product direction and practical software.</text>
+</svg>

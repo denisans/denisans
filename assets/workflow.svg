@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Understand the problem, Define the opportunity, Prioritize, Build with the team, Learn and iterate">
+<defs><style>@keyframes hi { 0%,16%,100% { stroke: #2C3E50 } 3%,13% { stroke: #7DB2AD } } .s0 line { animation: hi 12s ease-in-out 0s infinite } .s1 line { animation: hi 12s ease-in-out 2s infinite } .s2 line { animation: hi 12s ease-in-out 4s infinite } .s3 line { animation: hi 12s ease-in-out 6s infinite } .s4 line { animation: hi 12s ease-in-out 8s infinite } @media (prefers-reduced-motion: reduce) { * { animation: none !important } }</style></defs>
+<rect width="1200" height="130" rx="16" fill="#141F2B"/><rect x=".5" y=".5" width="1199" height="129" rx="15.5" fill="none" stroke="#2C3E50"/>
+<g class="s0"><text x="70" y="58" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" fill="#E9EEF3">Understand</text>
+<text x="70" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA9B9">the problem</text>
+<line x1="70" y1="104" x2="266" y2="104" stroke="#2C3E50" stroke-width="2"/></g><g class="s1"><text x="302" y="58" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" fill="#E9EEF3">Define</text>
+<text x="302" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA9B9">the opportunity</text>
+<line x1="302" y1="104" x2="498" y2="104" stroke="#2C3E50" stroke-width="2"/></g><g class="s2"><text x="534" y="58" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" fill="#E9EEF3">Prioritize</text>
+<text x="534" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA9B9">what matters</text>
+<line x1="534" y1="104" x2="730" y2="104" stroke="#2C3E50" stroke-width="2"/></g><g class="s3"><text x="766" y="58" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" fill="#E9EEF3">Build</text>
+<text x="766" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA9B9">with the team</text>
+<line x1="766" y1="104" x2="962" y2="104" stroke="#2C3E50" stroke-width="2"/></g><g class="s4"><text x="998" y="58" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="22" fill="#E9EEF3">Learn</text>
+<text x="998" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA9B9">and iterate</text>
+<line x1="998" y1="104" x2="1194" y2="104" stroke="#2C3E50" stroke-width="2"/></g>
+</svg>
