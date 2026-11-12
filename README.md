@@ -1,46 +1,103 @@
+<!-- VERSION: v1 (draft) | Style: modern + badges & stats | Language: EN -->
 <div align="center">
   <img src="assets/profile-banner.svg" alt="Denisans — Product-minded PM and Engineer" width="100%" />
 </div>
 
 <div align="center">
 
-<a href="https://github.com/denisans">GitHub</a> · Product Management · Software Engineering · Product Building
+# Hi, I'm Denis 👋
+
+### Project Manager · Product Manager · Business Analyst
+
+*I turn unclear problems into product direction and practical software.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_ME)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_ME@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/denisans?style=for-the-badge&logo=github&label=Followers)](https://github.com/denisans)
 
 </div>
 
 ---
 
-## Hey, I'm Denisans 👋
+## 🧭 What I bring
 
-I’m a product-minded PM and engineer who enjoys turning messy problems into clear product direction and practical software.
+| | |
+|---|---|
+| 🎯 **Product thinking** | Frame the problem, define the opportunity, prioritize what matters. |
+| 🛠️ **Engineering mindset** | Speak the language of developers and QA; translate needs into clear requirements. |
+| 🤝 **Collaboration** | Align stakeholders, keep teams unblocked, communicate progress clearly. |
+| 🚀 **Delivery focus** | Ship, learn from feedback, iterate. |
 
-I work best at the intersection of **user needs**, **business goals**, and **technical execution** — building products that are useful, thoughtful, and easy to improve.
+## 🔄 How I work
 
-### What I bring
+```
+Understand the problem  →  Define the opportunity  →  Prioritize  →  Build  →  Learn
+```
 
-- Product thinking: problem framing, prioritization, and decision-making
-- Engineering mindset: building, iterating, and improving with intention
-- Collaboration: aligning teams around outcomes and execution
-- Delivery focus: turning ideas into usable product progress
+## 📦 Featured work
 
-### Featured work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- [QA Tracker](https://github.com/denisans/qa-tracker) — A project focused on improving QA tracking and workflows.
-- [Cafe Management](https://github.com/denisans/Cafe_Management) — A cafe operations system project.
-- [Hotel Website](https://github.com/denisans/portofolio.github.io) — A hospitality-focused website project.
+### ✅ [QA Tracker](https://github.com/denisans/qa-tracker)
+Automates QA tracking to make test reporting and fix follow-up faster and more transparent.
 
-### My working style
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-`Understand the problem` → `Define the opportunity` → `Prioritize` → `Build` → `Learn`
+</td>
+<td width="50%" valign="top">
 
-I care about clarity, execution, and continuous iteration.
+### ☕ [Cafe Management](https://github.com/denisans/Cafe_Management)
+A cafe operations system for managing day-to-day business flow.
 
-### Let’s connect
+![Status](https://img.shields.io/badge/Case_study-Operations-informational?style=flat-square)
 
-[GitHub](https://github.com/denisans) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 [Hotel Website](https://github.com/denisans/portofolio.github.io)
+A hotel website built as a product and web delivery exercise.
+
+![Web](https://img.shields.io/badge/Web-Frontend-blue?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 👑 [Crownsky](https://github.com/denisans/Crownsky)
+PHP project. <!-- TODO: add one-line description -->
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tools & stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Add PM tools you actually use, e.g. Jira / Notion / Figma -->
+
+## 📊 GitHub stats
 
 <div align="center">
 
-*Building useful products with clarity, care, and momentum.*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=denisans&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisans&layout=compact&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration, product conversations, and good coffee. ☕**
 
 </div>
