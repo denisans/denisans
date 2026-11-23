@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Denis - Project Manager, Product Manager, Business Analyst" width="100%" />
+  <a href="https://denisseportofolio.vercel.app/"><img src="assets/hero.svg" alt="Denis - Project Manager, Product Manager, Business Analyst. Open my portfolio website." width="100%" /></a>
 
   <p><a href="https://www.linkedin.com/in/denisse-ananda/"><img src="assets/btn-link-linkedin.svg" alt="LinkedIn" height="38" /></a> &nbsp; <a href="mailto:denisseananda7@gmail.com"><img src="assets/btn-link-email.svg" alt="Email" height="38" /></a> &nbsp; <a href="https://github.com/denisans?tab=repositories"><img src="assets/btn-link-repos.svg" alt="Repositories" height="38" /></a></p>
 </div>
